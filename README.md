@@ -12,7 +12,7 @@
 
 * controller: 链接路由的最后一层
 
-* public 发布静态文件的目录
+* public 发布静态文件的目录 ,这里存放了运行结果图片,访问: http://127.0.0.1:7001/public/userpage.png
 
 > 数据库名叫test1,表名也叫test1 只有一个字段,叫name
 
